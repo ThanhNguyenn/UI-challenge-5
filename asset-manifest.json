@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UI-challenge-5/static/css/main.a303ee12.chunk.css",
+    "main.js": "/UI-challenge-5/static/js/main.a2270471.chunk.js",
+    "main.js.map": "/UI-challenge-5/static/js/main.a2270471.chunk.js.map",
+    "runtime-main.js": "/UI-challenge-5/static/js/runtime-main.f66268e2.js",
+    "runtime-main.js.map": "/UI-challenge-5/static/js/runtime-main.f66268e2.js.map",
+    "static/css/2.30d7de4b.chunk.css": "/UI-challenge-5/static/css/2.30d7de4b.chunk.css",
+    "static/js/2.db842984.chunk.js": "/UI-challenge-5/static/js/2.db842984.chunk.js",
+    "static/js/2.db842984.chunk.js.map": "/UI-challenge-5/static/js/2.db842984.chunk.js.map",
+    "static/js/3.0ed750d6.chunk.js": "/UI-challenge-5/static/js/3.0ed750d6.chunk.js",
+    "static/js/3.0ed750d6.chunk.js.map": "/UI-challenge-5/static/js/3.0ed750d6.chunk.js.map",
+    "index.html": "/UI-challenge-5/index.html",
+    "static/css/2.30d7de4b.chunk.css.map": "/UI-challenge-5/static/css/2.30d7de4b.chunk.css.map",
+    "static/css/main.a303ee12.chunk.css.map": "/UI-challenge-5/static/css/main.a303ee12.chunk.css.map",
+    "static/js/2.db842984.chunk.js.LICENSE.txt": "/UI-challenge-5/static/js/2.db842984.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/UI-challenge-5/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f66268e2.js",
+    "static/css/2.30d7de4b.chunk.css",
+    "static/js/2.db842984.chunk.js",
+    "static/css/main.a303ee12.chunk.css",
+    "static/js/main.a2270471.chunk.js"
+  ]
+}
