@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap");
+
+.page--outer-container {
+  width: 600px;
+  height: 400px;
+  background-color: #cee5e4;
+  margin: 200px auto;
+  box-sizing: border-box;
+  font-family: "Ropa Sans", sans-serif;
+}
+
+.page--inner-container {
+  width: 92%;
+  height: 90%;
+  background-color: #ffffff;
+  display: inline-block;
+  margin-left: 23px;
+  margin-top: 20px;
+}
